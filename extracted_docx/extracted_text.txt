@@ -1,0 +1,333 @@
+w14:paraId="48637A08" w14:textId="6C06C2D2" w:rsidR="00524CE5" w:rsidRDefault="00524CE5" w:rsidP="002001A1">	w:val="left" w:pos="3356"/>Step 1              
+
+w14:paraId="54BC7A17" w14:textId="77777777" w:rsidR="00524CE5" w:rsidRDefault="00524CE5" w:rsidP="00524CE5">
+
+w14:paraId="73F4B388" w14:textId="2B4D6F88" w:rsidR="00524CE5" w:rsidRPr="00524CE5" w:rsidRDefault="00524CE5" w:rsidP="00524CE5">HEALTHCARE OPERATIONS & TECHNOLOGY
+
+w14:paraId="2845D933" w14:textId="77777777" w:rsidR="00524CE5" w:rsidRPr="00175F67" w:rsidRDefault="00524CE5" w:rsidP="00524CE5">Healthcare operations,
+
+w14:paraId="1AAA4941" w14:textId="77777777" w:rsidR="00524CE5" w:rsidRPr="00175F67" w:rsidRDefault="00524CE5" w:rsidP="00524CE5">built differently.
+
+w14:paraId="3D42B9BC" w14:textId="77777777" w:rsidR="005E2531" w:rsidRPr="005E2531" w:rsidRDefault="005E2531" w:rsidP="005E2531">Solid State Practice is the operations and technology engine behind AlignedCardio, combining experienced healthcare teams, analytics, automation and AI to build a better way to run medical practices.
+
+w14:paraId="76B8752D" w14:textId="5AB7B3C4" w:rsidR="00175F67" w:rsidRDefault="00175F67" w:rsidP="00524CE5">AlignedCardio has invested in building critical operational capabilities directly into its platform, and SSP is a critical part of that infrastructure.
+
+w14:paraId="1C821A92" w14:textId="7D0AA985" w:rsidR="00175F67" w:rsidRDefault="00175F67" w:rsidP="00524CE5">Learn more about AlignedCardio →
+
+w14:paraId="7A163792" w14:textId="77777777" w:rsidR="00524CE5" w:rsidRDefault="00524CE5" w:rsidP="00524CE5">
+
+w14:paraId="415ED5A6" w14:textId="77777777" w:rsidR="00524CE5" w:rsidRPr="00524CE5" w:rsidRDefault="00524CE5" w:rsidP="00524CE5">Built inside healthcare. Proven in practice.
+
+w14:paraId="6E3713A6" w14:textId="547F9562" w:rsidR="00524CE5" w:rsidRDefault="00524CE5" w:rsidP="00524CE5">CTA
+
+w14:paraId="376BB534" w14:textId="51F9B90C" w:rsidR="00BB1385" w:rsidRDefault="00524CE5" w:rsidP="00524CE5">[ Explore Our Capabilities ] [ Partner With Us ]
+
+w14:paraId="40DAA91E" w14:textId="735BDFF4" w:rsidR="00524CE5" w:rsidRDefault="00524CE5" w:rsidP="00524CE5">
+
+w14:paraId="0EE87AC1" w14:textId="77777777" w:rsidR="00524CE5" w:rsidRDefault="00524CE5" w:rsidP="00524CE5">
+
+w14:paraId="03DD7AE0" w14:textId="54B952EA" w:rsidR="00524CE5" w:rsidRDefault="00524CE5" w:rsidP="00524CE5">Step 2
+
+w14:paraId="1EA18BE4" w14:textId="77777777" w:rsidR="00524CE5" w:rsidRDefault="00524CE5" w:rsidP="00524CE5">
+
+w14:paraId="49090C96" w14:textId="77777777" w:rsidR="00524CE5" w:rsidRPr="00524CE5" w:rsidRDefault="00524CE5" w:rsidP="00524CE5">120+                    12,000+                 2,000+                  60+
+
+w14:paraId="7B34BA5E" w14:textId="77777777" w:rsidR="00524CE5" w:rsidRPr="00524CE5" w:rsidRDefault="00524CE5" w:rsidP="00524CE5">Healthcare Operations   Patient Calls            Appointments            Providers
+
+w14:paraId="2B9FC541" w14:textId="57CDB786" w:rsidR="00524CE5" w:rsidRDefault="00524CE5" w:rsidP="00524CE5">Professionals           Weekly                  Scheduled Weekly        Supported
+
+w14:paraId="1AA9D31F" w14:textId="77777777" w:rsidR="00524CE5" w:rsidRDefault="00524CE5" w:rsidP="00524CE5">
+
+w14:paraId="3507B990" w14:textId="6F34F05B" w:rsidR="00524CE5" w:rsidRDefault="00524CE5" w:rsidP="00524CE5">
+
+w14:paraId="73F8106E" w14:textId="77777777" w:rsidR="00524CE5" w:rsidRDefault="00524CE5" w:rsidP="00524CE5">
+
+w14:paraId="72EEA53B" w14:textId="6A469FB0" w:rsidR="00524CE5" w:rsidRDefault="009F6C46" w:rsidP="00524CE5">Solid State Practice was built to solve the operational challenges we encounter every day inside a growing physician-led healthcare organization. As part of AlignedCardio, SSP supports the infrastructure behind a complex, multi-market cardiovascular platform—from revenue cycle and patient access to analytics, finance, automation and AI. Our operating environment is our laboratory: we identify problems, build better workflows, deploy them in real-world healthcare settings, measure the results and continuously improve them. Today, we bring that same operating discipline and technology-enabled approach to the organizations we support.
+
+w14:paraId="3D51255D" w14:textId="77777777" w:rsidR="005E7922" w:rsidRPr="005E7922" w:rsidRDefault="005E7922" w:rsidP="005E7922">Small supporting line / highlight
+
+w14:paraId="6D133A19" w14:textId="77777777" w:rsidR="005E7922" w:rsidRPr="005E7922" w:rsidRDefault="005E7922" w:rsidP="005E7922">Real healthcare experience. Better operations. Technology built for what’s next.
+
+w14:paraId="67649081" w14:textId="77777777" w:rsidR="005E7922" w:rsidRDefault="005E7922" w:rsidP="00524CE5">
+
+w14:paraId="2348F95C" w14:textId="77777777" w:rsidR="005E7922" w:rsidRPr="005E7922" w:rsidRDefault="005E7922" w:rsidP="005E7922">Section 2 — Part of AlignedCardio
+
+w14:paraId="4193132A" w14:textId="77777777" w:rsidR="005E7922" w:rsidRPr="005E7922" w:rsidRDefault="005E7922" w:rsidP="005E7922">Part of AlignedCardio
+
+w14:paraId="42531CCE" w14:textId="77777777" w:rsidR="005E7922" w:rsidRPr="005E7922" w:rsidRDefault="005E7922" w:rsidP="005E7922">Solid State Practice is part of AlignedCardio, a physician-led cardiovascular platform built around a simple idea: physicians and patients deserve better infrastructure. AlignedCardio has invested in building critical operational capabilities directly into its platform rather than relying entirely on multiple external vendors. SSP is a critical part of that infrastructure, bringing together experienced healthcare teams, technology, analytics, automation and AI to support better healthcare operations.
+
+w14:paraId="0984EFEB" w14:textId="77777777" w:rsidR="005E7922" w:rsidRPr="005E7922" w:rsidRDefault="005E7922" w:rsidP="005E7922">CTA
+
+w14:paraId="4BF4BF1F" w14:textId="77777777" w:rsidR="005E7922" w:rsidRPr="005E7922" w:rsidRDefault="005E7922" w:rsidP="005E7922">Learn more about AlignedCardio →
+
+w14:paraId="34C404FA" w14:textId="208C2167" w:rsidR="005E7922" w:rsidRDefault="005E7922" w:rsidP="00524CE5">Reference image
+
+w14:paraId="47FAEAA2" w14:textId="35A6D5DA" w:rsidR="005E7922" w:rsidRDefault="005E7922" w:rsidP="00524CE5">
+
+w14:paraId="1DFFFFCB" w14:textId="77777777" w:rsidR="005E7922" w:rsidRDefault="005E7922" w:rsidP="00524CE5">
+
+w14:paraId="0FE5CC47" w14:textId="459A63A8" w:rsidR="00175F67" w:rsidRPr="00175F67" w:rsidRDefault="00175F67" w:rsidP="00524CE5">Section
+
+w14:paraId="13FB9396" w14:textId="14746F81" w:rsidR="009F6C46" w:rsidRPr="00175F67" w:rsidRDefault="00175F67" w:rsidP="00175F67">Update the new logo for Solidstate practice logo with AlignedCardio
+
+w14:paraId="63F2C585" w14:textId="060E1040" w:rsidR="00977A6C" w:rsidRPr="005E2531" w:rsidRDefault="00977A6C" w:rsidP="00524CE5">Change the way the services are organized
+
+w14:paraId="08BE0B66" w14:textId="77777777" w:rsidR="00977A6C" w:rsidRDefault="00977A6C" w:rsidP="00524CE5">
+
+w14:paraId="2356731D" w14:textId="468AE691" w:rsidR="00977A6C" w:rsidRDefault="00175F67" w:rsidP="00524CE5">
+
+w14:paraId="2288DF6C" w14:textId="77777777" w:rsidR="00B30BD9" w:rsidRDefault="00B30BD9" w:rsidP="00977A6C">
+
+w14:paraId="4DCA150F" w14:textId="77777777" w:rsidR="00B30BD9" w:rsidRDefault="00B30BD9" w:rsidP="00977A6C">
+
+w14:paraId="1D97F901" w14:textId="77777777" w:rsidR="00B30BD9" w:rsidRDefault="00B30BD9" w:rsidP="00977A6C">
+
+w14:paraId="618E201A" w14:textId="5C96BB30" w:rsidR="00977A6C" w:rsidRDefault="00977A6C" w:rsidP="00977A6C">Change the way the services are organized
+
+w14:paraId="113A717B" w14:textId="77777777" w:rsidR="00B30BD9" w:rsidRDefault="00B30BD9" w:rsidP="00977A6C">
+
+w14:paraId="12CBE665" w14:textId="7986668D" w:rsidR="00B30BD9" w:rsidRDefault="00B30BD9" w:rsidP="00977A6C">
+
+w14:paraId="02D9416E" w14:textId="77777777" w:rsidR="00977A6C" w:rsidRDefault="00977A6C" w:rsidP="00977A6C">
+
+w14:paraId="69797F6A" w14:textId="07CD3F28" w:rsidR="00977A6C" w:rsidRDefault="00B30BD9" w:rsidP="00977A6C">
+
+w14:paraId="17FA6495" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">Building what’s next in healthcare operations.
+
+w14:paraId="7E4CCFC8" w14:textId="77777777" w:rsidR="0052449A" w:rsidRDefault="0052449A" w:rsidP="00977A6C">
+
+w14:paraId="284D9DF3" w14:textId="5BC3C4CD" w:rsidR="0052449A" w:rsidRDefault="0052449A" w:rsidP="00977A6C">
+
+w14:paraId="0F149BD2" w14:textId="77777777" w:rsidR="0052449A" w:rsidRDefault="0052449A" w:rsidP="00977A6C">
+
+w14:paraId="3C37373C" w14:textId="3BC48219" w:rsidR="0052449A" w:rsidRDefault="0052449A" w:rsidP="00977A6C">3 short content blocks
+
+w14:paraId="46DAE137" w14:textId="4C78DD56" w:rsidR="0052449A" w:rsidRDefault="0052449A" w:rsidP="00977A6C">Problem
+
+w14:paraId="21DBE745" w14:textId="1DE3E5FF" w:rsidR="0052449A" w:rsidRDefault="0052449A" w:rsidP="00977A6C">Healthcare administration remains too manual, fragmented and dependent on people moving information between disconnected systems.
+
+w14:paraId="31610129" w14:textId="7BBC4E4A" w:rsidR="0052449A" w:rsidRDefault="0052449A" w:rsidP="00977A6C">SSP approach
+
+w14:paraId="11DBFCA9" w14:textId="77777777" w:rsidR="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">We believe the next generation of healthcare operations will combine experienced teams with intelligent automation.
+
+w14:paraId="52A8C7E8" w14:textId="7E9A7C7F" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">SSP is actively developing and deploying technology across patient access, revenue cycle and practice operations—automating repetitive work, surfacing the information people need and allowing healthcare teams to focus on higher-value decisions.
+
+w14:paraId="786A209C" w14:textId="77777777" w:rsidR="0052449A" w:rsidRDefault="0052449A" w:rsidP="00977A6C">
+
+w14:paraId="5E6B06AE" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">Patient Calls
+
+w14:paraId="4AEC1E92" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">      ↓
+
+w14:paraId="5F5DAD51" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">Scheduling
+
+w14:paraId="27CED3F2" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">      ↓
+
+w14:paraId="44A5A462" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">Eligibility
+
+w14:paraId="21A029A8" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">      ↓
+
+w14:paraId="186AD4A5" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">Authorization
+
+w14:paraId="556C83C6" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">      ↓
+
+w14:paraId="3F0827DC" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">Visit
+
+w14:paraId="36EDF019" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">      ↓
+
+w14:paraId="6120CC5E" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">Coding
+
+w14:paraId="424D1175" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">      ↓
+
+w14:paraId="21A39125" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">Claim
+
+w14:paraId="1B03F18A" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">      ↓
+
+w14:paraId="0155FE59" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">Payment
+
+w14:paraId="5B0B4D2F" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">      ↓
+
+w14:paraId="2935970C" w14:textId="5B9CEE66" w:rsidR="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">A/R
+
+w14:paraId="2347C414" w14:textId="4E3E5CA7" w:rsidR="0052449A" w:rsidRDefault="0052449A" w:rsidP="00977A6C">
+
+w14:paraId="53D48F83" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">PeopleExperienced healthcare teams who understand operations and patients.
+
+w14:paraId="1C926657" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">TechnologyAutomation and AI that streamline repetitive work and surface useful information.
+
+w14:paraId="376CD19A" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">DataActionable insights that help teams make better operational decisions.
+
+w14:paraId="361E70B7" w14:textId="77777777" w:rsidR="0052449A" w:rsidRDefault="0052449A" w:rsidP="00977A6C">
+
+w14:paraId="37F41C2E" w14:textId="77777777" w:rsidR="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">Add a “How we innovate” section
+
+w14:paraId="32D0579D" w14:textId="77777777" w:rsidR="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">
+
+w14:paraId="7BBC9A52" w14:textId="7E3BD9D0" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">
+
+w14:paraId="3E56CAFF" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="00977A6C">
+
+w14:paraId="4668F269" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">HOW WE INNOVATE
+
+w14:paraId="432880CF" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">
+
+w14:paraId="03E256CD" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">From idea to real-world deployment.
+
+w14:paraId="1D28A288" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">
+
+w14:paraId="3AF00DC1" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">We turn real operational challenges into practical
+
+w14:paraId="264C707E" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">solutions that create measurable impact for
+
+w14:paraId="5D846145" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">healthcare practices.
+
+w14:paraId="3A94898E" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">
+
+w14:paraId="6F6DDF3B" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">01 — Identify
+
+w14:paraId="6519C1AF" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">Find friction inside real healthcare operations.
+
+w14:paraId="28283C1B" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">
+
+w14:paraId="2A969002" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">02 — Build
+
+w14:paraId="6D1F590B" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">Design better workflows, automation and technology.
+
+w14:paraId="66A7DD4D" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">
+
+w14:paraId="50E1B8CD" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">03 — Deploy
+
+w14:paraId="7E7B648A" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">Implement within live healthcare environments.
+
+w14:paraId="5ECCFAB1" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">
+
+w14:paraId="78BA3C2D" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">04 — Measure
+
+w14:paraId="1BA38F6C" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">Track operational and financial outcomes.
+
+w14:paraId="6CC1EC7C" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">
+
+w14:paraId="669A5179" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">05 — Improve
+
+w14:paraId="493475AF" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">Iterate and scale what works.
+
+w14:paraId="7C939589" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">
+
+w14:paraId="44DC963D" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">--------------------------------------------
+
+w14:paraId="5D7C8A89" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">
+
+w14:paraId="0DDB8496" w14:textId="77777777" w:rsidR="0052449A" w:rsidRPr="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">Our innovation doesn’t happen in a demo environment.
+
+w14:paraId="45856AC8" w14:textId="397A27AA" w:rsidR="0052449A" w:rsidRDefault="0052449A" w:rsidP="0052449A">It happens inside healthcare operations.
+
+w14:paraId="54713F3B" w14:textId="77777777" w:rsidR="005E2531" w:rsidRDefault="005E2531" w:rsidP="0052449A">
+
+w14:paraId="6D0D654C" w14:textId="77777777" w:rsidR="005E2531" w:rsidRDefault="005E2531" w:rsidP="0052449A">
+
+w14:paraId="2BF1CED1" w14:textId="77777777" w:rsidR="005E2531" w:rsidRPr="005E2531" w:rsidRDefault="005E2531" w:rsidP="005E2531">Don’t overemphasize cost savings
+
+w14:paraId="6E149539" w14:textId="77777777" w:rsidR="005E2531" w:rsidRDefault="005E2531" w:rsidP="0052449A">
+
+w14:paraId="0EB1533D" w14:textId="09AC2C6C" w:rsidR="005E2531" w:rsidRDefault="005E2531" w:rsidP="0052449A">
+
+w14:paraId="1774C786" w14:textId="77777777" w:rsidR="005E2531" w:rsidRPr="00977A6C" w:rsidRDefault="005E2531" w:rsidP="0052449A">
+
+w14:paraId="6B0B31DD" w14:textId="77777777" w:rsidR="009E4BE2" w:rsidRPr="009E4BE2" w:rsidRDefault="009E4BE2" w:rsidP="009E4BE2">A BETTER OPERATING MODEL
+
+w14:paraId="2784D8C2" w14:textId="77777777" w:rsidR="009E4BE2" w:rsidRPr="009E4BE2" w:rsidRDefault="009E4BE2" w:rsidP="009E4BE2">Better performance. Greater scalability. Lower administrative cost.
+
+w14:paraId="2E7C4C7D" w14:textId="77777777" w:rsidR="009E4BE2" w:rsidRPr="009E4BE2" w:rsidRDefault="009E4BE2" w:rsidP="009E4BE2">SSP combines healthcare expertise, technology, automation, and data to create more efficient operating models for medical practices.
+
+w14:paraId="1D86943E" w14:textId="77777777" w:rsidR="009E4BE2" w:rsidRPr="009E4BE2" w:rsidRDefault="009E4BE2" w:rsidP="009E4BE2">PEOPLE + TECHNOLOGY + DATA
+
+w14:paraId="4EF1D8C7" w14:textId="77777777" w:rsidR="009E4BE2" w:rsidRPr="009E4BE2" w:rsidRDefault="009E4BE2" w:rsidP="009E4BE2">01Better Performance
+
+w14:paraId="2F16245C" w14:textId="77777777" w:rsidR="009E4BE2" w:rsidRPr="009E4BE2" w:rsidRDefault="009E4BE2" w:rsidP="009E4BE2">Streamline day-to-day healthcare operations with experienced teams, connected workflows, and technology.
+
+w14:paraId="7F7D9DA2" w14:textId="77777777" w:rsidR="009E4BE2" w:rsidRPr="009E4BE2" w:rsidRDefault="009E4BE2" w:rsidP="009E4BE2">→
+
+w14:paraId="1115433F" w14:textId="77777777" w:rsidR="009E4BE2" w:rsidRPr="009E4BE2" w:rsidRDefault="009E4BE2" w:rsidP="009E4BE2">02Greater Scalability
+
+w14:paraId="77C170DF" w14:textId="77777777" w:rsidR="009E4BE2" w:rsidRPr="009E4BE2" w:rsidRDefault="009E4BE2" w:rsidP="009E4BE2">Build operational capabilities that can grow with your practice and evolving business needs.
+
+w14:paraId="53140290" w14:textId="77777777" w:rsidR="009E4BE2" w:rsidRPr="009E4BE2" w:rsidRDefault="009E4BE2" w:rsidP="009E4BE2">→
+
+w14:paraId="41B3295A" w14:textId="77777777" w:rsidR="009E4BE2" w:rsidRPr="009E4BE2" w:rsidRDefault="009E4BE2" w:rsidP="009E4BE2">03Lower Administrative Cost
+
+w14:paraId="11462FC6" w14:textId="77777777" w:rsidR="009E4BE2" w:rsidRPr="009E4BE2" w:rsidRDefault="009E4BE2" w:rsidP="009E4BE2">Improve efficiency and reduce administrative overhead through better processes, technology, and automation.
+
+w14:paraId="1C45CF8C" w14:textId="77777777" w:rsidR="009E4BE2" w:rsidRDefault="009E4BE2" w:rsidP="009E4BE2">
+
+w14:paraId="36F57F9B" w14:textId="25612E9C" w:rsidR="009E4BE2" w:rsidRPr="009E4BE2" w:rsidRDefault="009E4BE2" w:rsidP="009E4BE2">OUTCOME
+
+w14:paraId="032D3D72" w14:textId="77777777" w:rsidR="009E4BE2" w:rsidRPr="009E4BE2" w:rsidRDefault="009E4BE2" w:rsidP="009E4BE2">Stronger performance, scalable operations, and greater administrative efficiency.
+
+w14:paraId="22A466B2" w14:textId="77777777" w:rsidR="00977A6C" w:rsidRDefault="00977A6C" w:rsidP="00524CE5">
+
+w14:paraId="23061AD7" w14:textId="54C11986" w:rsidR="009E4BE2" w:rsidRDefault="009E4BE2" w:rsidP="00524CE5">Reference image 
+
+w14:paraId="1BE73235" w14:textId="4FFB9235" w:rsidR="009E4BE2" w:rsidRDefault="009E4BE2" w:rsidP="00524CE5">
+
+w14:paraId="5324BC44" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">Add “Built at Scale”
+
+w14:paraId="7D96E54F" w14:textId="77777777" w:rsidR="009E4BE2" w:rsidRDefault="009E4BE2" w:rsidP="00524CE5">
+
+w14:paraId="755E2F4E" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">Built for complex healthcare organizations.
+
+w14:paraId="3949C4AA" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">Our teams support the operational infrastructure behind growing physician organizations across multiple locations, providers and service lines.
+
+w14:paraId="5E0A7503" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">Capabilities
+
+w14:paraId="5237EA53" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">Patient AccessPatient engagement, appointment scheduling and access support.
+
+w14:paraId="4625641E" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">Clinical OperationsSupport for providers, care teams and day-to-day clinical operations.
+
+w14:paraId="237EB74E" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">Revenue CycleEnd-to-end RCM including claims, denials, A/R and collections.
+
+w14:paraId="4F4AEE19" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">FinanceFinancial operations, reporting and revenue visibility.
+
+w14:paraId="089D08DB" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">AnalyticsData, reporting and insights to drive better decisions.
+
+w14:paraId="0B696FE3" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">TechnologyTechnology-enabled workflows and automation to improve efficiency and scale.
+
+w14:paraId="66F5FF06" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="00000000" w:rsidP="001D21E9">
+
+w14:paraId="064585CA" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">MORE THAN BILLING
+
+w14:paraId="342A4C7B" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">SSP supports the entire healthcare operations lifecycle — from patient access to technology.
+
+w14:paraId="55C4EA11" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">We combine people, process and technology to help physician organizations operate more efficiently and scale with confidence.
+
+w14:paraId="7E5470C7" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="00000000" w:rsidP="001D21E9">
+
+w14:paraId="087783FF" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">AT SCALE
+
+w14:paraId="6C0F914B" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">Supporting growing physician organizations.
+
+w14:paraId="2C45EB46" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">Our teams and technology are built to handle the complexity of multisite, multi-provider and multi-service organizations.
+
+w14:paraId="115FAE2E" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">Multiple LocationsSupport across geographies
+
+w14:paraId="1EA9D4B5" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">Multiple ProvidersFrom single specialties to multi-specialty groups
+
+w14:paraId="7451EDDB" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">Multiple Service LinesAcross cardiology and adjacent services
+
+w14:paraId="061EDD0E" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">Growing Patient VolumesBuilt to scale with your organization.
+
+w14:paraId="5767C1CA" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">
+
+w14:paraId="1B699011" w14:textId="57AF878D" w:rsidR="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">Reference image 
+
+w14:paraId="2BCBF27A" w14:textId="129BE7B9" w:rsidR="001D21E9" w:rsidRPr="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="001D21E9">
+
+w14:paraId="3845B99E" w14:textId="77777777" w:rsidR="001D21E9" w:rsidRDefault="001D21E9" w:rsidP="00524CE5">
+
+w14:paraId="39EB5703" w14:textId="77777777" w:rsidR="002D0E1D" w:rsidRPr="002D0E1D" w:rsidRDefault="002D0E1D" w:rsidP="002D0E1D">Add leadership—but selectively
+
+w14:paraId="12D3FE8F" w14:textId="049C467C" w:rsidR="002D0E1D" w:rsidRDefault="002D0E1D" w:rsidP="00524CE5">Reference image 
+
+w14:paraId="50DA1802" w14:textId="4B599D23" w:rsidR="002D0E1D" w:rsidRDefault="002D0E1D" w:rsidP="00524CE5">
+
+w14:paraId="1D844C76" w14:textId="77777777" w:rsidR="002D0E1D" w:rsidRDefault="002D0E1D" w:rsidP="00524CE5">
+
+w14:paraId="08711C31" w14:textId="77777777" w:rsidR="002D0E1D" w:rsidRPr="001D21E9" w:rsidRDefault="002D0E1D" w:rsidP="00524CE5">
